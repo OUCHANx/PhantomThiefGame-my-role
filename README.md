@@ -11,7 +11,7 @@ This effect is used as a hazard in the game environment.
 
 References:
 
-YouTube tutorial: https://www.youtube.com/watch?v=2xGpkfl7BdA&t=205s
+YouTube tutorial: https://www.youtube.com/watch?v=2xGpkfl7BdA&t
 
 EffectTextureMaker: https://mebiusbox.github.io/contents/EffectTextureMaker/
 
@@ -27,7 +27,7 @@ Unityの Particle System を使用し、
 参考資料
 
 YouTubeチュートリアル
-https://www.youtube.com/watch?v=2xGpkfl7BdA&t=205s
+https://www.youtube.com/watch?v=2xGpkfl7BdA&t
 
 EffectTextureMaker
 https://mebiusbox.github.io/contents/EffectTextureMaker/
