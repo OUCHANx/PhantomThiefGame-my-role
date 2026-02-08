@@ -3,6 +3,13 @@ My contribution and implementation details for a Unity-based team game project.
 
 <img width="420" height="233" alt="スクリーンショット 2025-10-17 15 15 14" src="https://github.com/user-attachments/assets/15a5a077-d74c-4d22-95c8-2f11a8613fab" />
 
+## 🎥 デモ動画（Gameplay Demo）
+
+本作のプレイ映像を以下の動画で確認できます。  
+※YouTubeの限定公開動画です。
+
+https://www.youtube.com/xxxxx
+
 🇬🇧
 ## 🔥 Fire Effect Implementation
 
