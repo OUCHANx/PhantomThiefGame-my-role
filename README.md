@@ -10,7 +10,7 @@ My contribution and implementation details for a Unity-based team game project.
 
 https://www.youtube.com/xxxxx
 
-🇬🇧
+
 ## 🔥 Fire Effect Implementation
 
 I created the in-game fire effect using Unity’s Particle System, based on a reference tutorial.
@@ -25,7 +25,7 @@ EffectTextureMaker: https://mebiusbox.github.io/contents/EffectTextureMaker/
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
 
-🇯🇵
+
 ## 🔥 炎エフェクトの実装
 Unityの Particle System を使用し、チュートリアルを参考にしながらゲーム内の炎エフェクトを実装しました。この炎は、プレイヤーが宝を盗んだ後の帰り道に出現し、ステージ上の障害物として、触れるとダメージを受ける仕組みになっています。
 
