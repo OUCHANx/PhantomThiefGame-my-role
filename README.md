@@ -2,9 +2,9 @@
 My contribution and implementation details for a Unity-based team game project.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15c9c1bb-8c69-413d-b20e-ef51ea2ac189" width="280" height="180">
-  <img src="https://github.com/user-attachments/assets/15a5a077-d74c-4d22-95c8-2f11a8613fab" width="280" height="180">
-  <img src="https://github.com/user-attachments/assets/6a07423c-466c-4d89-b75d-d25c42569fd6" width="280" height="180">
+  <img src="https://github.com/user-attachments/assets/15c9c1bb-8c69-413d-b20e-ef51ea2ac189" width="320" height="180">
+  <img src="https://github.com/user-attachments/assets/15a5a077-d74c-4d22-95c8-2f11a8613fab" width="320" height="180">
+  <img src="https://github.com/user-attachments/assets/6a07423c-466c-4d89-b75d-d25c42569fd6" width="320" height="180">
 </p>
 
 
