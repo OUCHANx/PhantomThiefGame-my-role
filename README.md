@@ -1,16 +1,22 @@
 # PhantomThiefGame-my-role
 My contribution and implementation details for a Unity-based team game project.
 
-<img width="420" height="233" alt="スクリーンショット 2025-10-17 15 15 14" src="https://github.com/user-attachments/assets/15a5a077-d74c-4d22-95c8-2f11a8613fab" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15c9c1bb-8c69-413d-b20e-ef51ea2ac189" width="300" height="180">
+  <img src="https://github.com/user-attachments/assets/15a5a077-d74c-4d22-95c8-2f11a8613fab" width="300" height="180">
+  <img src="https://github.com/user-attachments/assets/6a07423c-466c-4d89-b75d-d25c42569fd6" width="300" height="180">
+</p>
+
+
+
+
 
 ## 🎥 デモ動画（Gameplay Demo）
 
 本作のプレイ映像を以下の動画で確認できます。  
 ※YouTubeの限定公開動画です。
 
-https://www.youtube.com/xxxxx
-
-
+https://youtu.be/btPPD-InckE
 ## 🔥 Fire Effect Implementation
 
 I created the in-game fire effect using Unity’s Particle System, based on a reference tutorial.
