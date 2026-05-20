@@ -9,7 +9,6 @@ My contribution and implementation details for a Unity-based team game project.
 
 
 
-
 ## 🎥 デモ動画（Gameplay Demo）
 
 本作のプレイ映像を以下の動画で確認できます。  
